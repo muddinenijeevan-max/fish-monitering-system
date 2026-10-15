@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+tf_env/
+*.keras
+*.h5
+*.pt
+*.pth
+*.onnx
+*.tflite
+best_zebrafish_model003.keras/
+Zebrafish-database.v20i.tensorflow/
+Robot_Scan_Results/
+scannedpics/
+.env
